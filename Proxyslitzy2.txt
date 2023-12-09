@@ -1,0 +1,4 @@
+52.207.185.90
+158.101.114.159
+
+Settings > Network > ARROW > Network > CustomNameServers > Paste. (52.207.185.90)
